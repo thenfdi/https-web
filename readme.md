@@ -57,7 +57,7 @@ Es una cabecera de seguridad que indica cómo se inició la petición (en este c
 * **Content-Type (text/html):** Le dice al navegador que el archivo es una página web HTML.
 * **Content-Encoding (gzip):** El servidor comprimió el archivo antes de enviarlo para que ocupe menos y llegue más rápido.
 
-> **![Get casoA.png](Get%casoA.png)**
+> **![Get casoA.png](Get%20casoA.png)**
 
 # Análisis de Captura HTTP: Errores 404 (Caso B)
 
