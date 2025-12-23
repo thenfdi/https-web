@@ -13,7 +13,7 @@
 * **Sec-Fetch-Mode:** `Maps`
 * **Connection:** `keep-alive`
 
-> **[captura3.png]**
+> **[![captura3.png](captura3.png)]**
 
 ---
 
@@ -40,7 +40,7 @@ Le dice al servidor qué tipos de archivos puede entender el navegador. Aquí pi
 ### Sec-Fetch-Mode
 Es una cabecera de seguridad que indica cómo se inició la petición (en este caso indica navegación por mapas o similar según tu captura).
 
-> **[`Get1.png`]**
+> **[![Get1.png](Get1.png)]**
 
 ---
 
@@ -57,7 +57,7 @@ Es una cabecera de seguridad que indica cómo se inició la petición (en este c
 * **Content-Type (text/html):** Le dice al navegador que el archivo es una página web HTML.
 * **Content-Encoding (gzip):** El servidor comprimió el archivo antes de enviarlo para que ocupe menos y llegue más rápido.
 
-> **[`Get casoA.png`]**
+> **![Get casoA.png](Get casoA.png)**
 
 # Análisis de Captura HTTP: Errores 404 (Caso B)
 
@@ -112,7 +112,7 @@ La parte inferior de la captura muestra una segunda petición que ocurre casi in
 
 ## 3. Diagnóstico General de la Captura
 
-La imagen `404 caso B.png` ilustra un escenario de "enlaces rotos" múltiples:
+La imagen ![404 caso B.png](404 caso B.png) ilustra un escenario de "enlaces rotos" múltiples:
 
 
 ---
@@ -139,7 +139,7 @@ La imagen `404 caso B.png` ilustra un escenario de "enlaces rotos" múltiples:
 * Registro TXT con `v=spf1`.
 * Evita que otros servidores puedan enviar correos haciéndose pasar por el dominio.
 
-> **[`DNS.png`]**
+> **![DNS.png](DNS.png)**
 
 ---
 
@@ -149,13 +149,13 @@ La imagen `404 caso B.png` ilustra un escenario de "enlaces rotos" múltiples:
 * **Qué es:** Una imagen en formato PNG.
 * **Para qué sirve:** El navegador sabe que debe mostrar los datos como una imagen, no como texto.
 
-> **[`imagen.png]**
+> **![imagen.png](imagen.png)**
 
 ### `text/css`
 * **Qué es:** Un archivo de estilos CSS.
 * **Para qué sirve:** El navegador lo usa para dar formato a la página (colores, fuentes, tamaños, etc.).
 
-> **[icon.png]**
+> **![icon.png](icon.png)**
 
 ---
 
