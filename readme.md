@@ -61,7 +61,7 @@ Es una cabecera de seguridad que indica cómo se inició la petición (en este c
 
 # Análisis de Captura HTTP: Errores 404 (Caso B)
 
-Este análisis se basa en la captura `404 caso B.png`, la cual muestra dos transacciones HTTP/2 distintas donde el servidor responde que no encuentra los recursos solicitados.
+Este análisis se basa en la captura ![404 caso B.png](404 caso B.png), la cual muestra dos transacciones HTTP/2 distintas donde el servidor responde que no encuentra los recursos solicitados.
 
 ---
 
